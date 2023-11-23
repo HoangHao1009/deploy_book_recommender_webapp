@@ -10,7 +10,6 @@ st.set_page_config(
     page_title="BOOK RECOMMENDER",
     page_icon="📚",
     layout="wide",
-    theme = "light"
 )
 
 
